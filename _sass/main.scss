@@ -13,6 +13,21 @@ $Light-Gray: #a0a9ab94;
 $Solarized-Base: #073642;
 $Maroon-Base:  #7B3030;
 
+
+.navbar-toggler {
+  .navbar-toggler-icon {
+    content:url(http://hernies.net/assets/images/icons/android-chrome-192x192.png);
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1); // Smooth bounce-like animation
+  }
+
+  &.rotate {
+    .navbar-toggler-icon {
+      transform: rotate(360deg); // Full circle rotation
+    }
+  }
+}
+
+
 .card {
   // margin: 1em;
 }
