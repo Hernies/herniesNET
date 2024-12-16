@@ -6,7 +6,7 @@ title: Hernies | About
 
 <h1>About Me</h1>
 <p>
-I like to read, and I like to code. I also like strategy games — both board games and video games.
+I like to read and figure out how things work. I also like games — both TTRPG board games and video games.
 </p>
 <p>Here are my most used langauges on <a href="https://github.com/Hernies">my GitHub account</a>:</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernies&langs_count=6&layout=compact"/>
