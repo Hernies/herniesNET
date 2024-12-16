@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/">Samasaur1</a>
+<nav class="navbar navbar-expand-lg ">
+  <a class="navbar-brand" href="/">Hernies</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -35,9 +35,7 @@
             </li>
           {% endif %}
           {% if item.name == "Blog" %}
-            <a href="{{ "/feed.xml" | relative_url }}">
-                <img src="{{ "/assets/images/feed-icon-gray.png" | relative_url }}" style="height: 20px; width: 20px; position: relative; top: 8px;"/>
-            </a>
+            
           {% endif %}
         {% endif %}
       {% endfor %}

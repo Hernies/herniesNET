@@ -37,7 +37,7 @@
 - name: rss
 - name: rssbot
   description: |-
-    a discord bot that watches RSS/Atom feeds. find it on GitHub <a href="https://github.com/Samasaur1/rssbot">here</a>
+    a discord bot that watches RSS/Atom feeds. find it on GitHub <a href="https://github.com/Hernies/rssbot">here</a>
 - name: refind
 - name: catppuccin
 - name: svg

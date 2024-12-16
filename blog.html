@@ -1,16 +1,10 @@
 ---
 layout: default
-title: Samasaur1 | Blog
+title: Hernies | Blog
 ---
 <div style="flex: 1;">
 <div style="padding: 1.5em;">
 <h1>Latest Posts</h1>
-<!-- <a href="{{ "/feed.xml" | relative_url }}">
-    <p>RSS/Atom feed <img src="{{ "/assets/images/feed-icon.png" | relative_url }}"/></p>
-</a> -->
-<a style="position: relative; top: -44px; float: right;" href="{{ "feed.xml" | relative_url }}">
-    <img src="{{ "/assets/images/feed-icon.png" | relative_url }}"/>
-</a>
 
 <ul>
   {% for post in site.posts %}
@@ -48,7 +42,4 @@ ul > li.draft > h3 > a::after {
     {% endfor %}
   </ul>
 </div>
-</div>
-<div style="padding: 5px; text-align: center; margin-bottom: 5px; padding-top: 0px;">
-    <a href="{{ "/feed.xml" | relative_url }}">RSS/Atom feed</a>
 </div>

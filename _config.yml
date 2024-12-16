@@ -15,9 +15,9 @@ defaults:
       path: ""
       # type: "posts"
     values:
-      author: sam
+      author: hernies
       # layout: default
-      commenting: open
+      commenting: closed
 
 #excerpt_separator: <!--more-->
 
@@ -30,12 +30,11 @@ page_gen:
     title_expr: |-
       record.fetch("displayname", record["name"])
 
-timezone: America/Los_Angeles
-url: https://samasaur1.github.io
-title: samasaur1.github.io
-description: samasaur1.github.io
+timezone: Europe/Madrid
+url: https://hernies.net
+title: hernies 
+description: hernies 
 
 emptyArray: []
 
-comments:
-  receiver: https://comments.blog.samasaur.com/comment
+# todo implement comments

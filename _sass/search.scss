@@ -1,3 +1,14 @@
+$Secondary-Blue: #0e282f ; //codeblocks and buttons
+$Accent-Dark-Green: #4A9B78; //block quote background
+$Accent-Green: #80bd84; // links
+$Soft-Cream: #F0E4C2;  // for headings 
+$Soft-Cream2: #e1dbd3; // for text
+$Muted-Red-3: #AB4E4E;
+$Warm-GreyRed: #7A6666; // for subtext/blockquotes (adds con   #586E75; //073642
+$Light-Gray: #A0A9AB; 
+$Solarized-Base: #073642;
+$Maroon-Base:  #7B3030;
+
 .search-highlight {
   background-color: yellow;
   padding: 5px;
@@ -20,7 +31,7 @@ kbd .search-highlight {
     right: 20px;
     display: flex;
     justify-content: space-between;
-    background-color: white;
+    background-color: $Maroon-Base;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
     padding:10px 12px
 }

@@ -1,5 +1,46 @@
+
+$Secondary-Blue: #0e282f ; //codeblocks and buttons
+$Secondary-Blue2: #0e282f2d ; //codeblocks and buttons
+$Accent-Dark-Green: #4A9B78; //block quote background
+$Accent-Green: #80bd84; // links
+$Soft-Cream: #F0E4C2;  // for headings 
+$Soft-Creamlow: #f0e4c234;  // for headings 
+$Soft-Creamlow2: #f0e4c2b4;  // for headings 
+$Soft-Cream2: #e1dbd3; // for text
+$Muted-Red-3: #AB4E4E;
+$Warm-GreyRed: #7a666696; // for subtext/blockquotes (adds con   #586E75; //073642
+$Light-Gray: #a0a9ab94; 
+$Solarized-Base: #073642;
+$Maroon-Base:  #7B3030;
+
 .card {
   // margin: 1em;
+}
+a {
+  color: $Accent-Green;
+}
+
+a:hover, a:visited{
+  color: $Accent-Dark-Green;
+}
+
+.form-control{
+  background-color: $Soft-Creamlow2;
+  border-color: $Soft-Cream;
+}
+
+
+.highlight {
+  background-color: $Soft-Creamlow;
+}
+
+button.navbar-toggler{
+  background-color: $Soft-Cream !important;
+  color: $Secondary-Blue !important;
+}
+
+.navbar{
+  background-color: $Secondary-Blue;
 }
 
 %icon {
@@ -64,7 +105,7 @@
 
 .project-sidebar {
   width: 23em;
-  background-color: lightgray;
+  background-color: $Accent-Dark-Green;
   border-radius: 1em;
 }
 
@@ -78,6 +119,7 @@
   src: local("JetBrains Mono NL"), local("JetBrains Mono"), url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/archives/ttf/JetBrainsMonoNL-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  color: $Soft-Cream2;
 }
 
 pre, code, kbd {
@@ -87,12 +129,12 @@ pre, code, kbd {
 pre {
   padding: 1rem;
   border-radius: .25rem;
-  background-color: lightgray;
+  background-color: $Secondary-Blue;
 }
 
 blockquote {
   margin-left: 1em;
-  border-left: 6px solid lightgray;
+  border-left: 6px solid  $Accent-Dark-Green;
   padding-left: 1em;
   padding-top: 0.25em;
   padding-right: 0.5em;
@@ -154,21 +196,27 @@ blockquote.callout.callout-info > h5:first-child:before {
 }
 
 footer {
-  background-color: lightgray;
+  background-color: $Solarized-Base;
   width: 100%;
   text-align: center;
   font-size: 75%;
-  font-color: gray;
+  color: $Soft-Cream2; // here?
   font-style: italic;
   padding: 0.5em;
 }
 #default-layout-content {
     flex: 1;
 }
+h1,h2, h3, h4, h5, h6{
+  color: $Soft-Cream;
+}
 body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  color: $Soft-Cream2;
+  background-color: $Solarized-Base;
+
 }
 del {
   text-decoration-thickness: 10%;

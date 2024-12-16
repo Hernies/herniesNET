@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Samasaur1 | Projects | RemoteText Server
+title: Hernies | Projects | RemoteText Server
 # sidebar:
 #   - title: Install
 #     children:

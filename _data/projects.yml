@@ -1,30 +1,30 @@
 - name: Custom Die Roller
-  repo_url: https://github.com/Samasaur1/Die-Roller
+  repo_url: https://github.com/Hernies/Die-Roller
   link: /projects/customdieroller.html
   description: Make mobile dice rolling easy. Available on the iOS App Store.
   languages: Swift
   type: app
   appstore_url: https://apps.apple.com/us/app/custom-die-roller/id1521541808
 - name: SimpleSwiftServer
-  repo_url: https://github.com/Samasaur1/SimpleSwiftServer
+  repo_url: https://github.com/Hernies/SimpleSwiftServer
   link: /projects/simpleswiftserver.html
   description: Quick and easy file sharing (direct download or directory browsing) and more.
   languages: Swift
   type: executable
 - name: DiceKit
-  repo_url: https://github.com/Samasaur1/DiceKit
+  repo_url: https://github.com/Hernies/DiceKit
   link: /projects/dicekit.html
   description: Simulate dice both real and unreal — with custom dice, weighted dice, and probability.
   languages: Swift
   type: library
 - name: helpme
-  repo_url: https://github.com/Samasaur1/helpme
+  repo_url: https://github.com/Hernies/helpme
   link: /projects/helpme.html
   description: Let past you help future you out. Keep track of configuration and more with command-line tidbits.
   languages: Python
   type: executable
 - name: SwiftIP
-  repo_url: https://github.com/Samasaur1/SwiftIP
+  repo_url: https://github.com/Hernies/SwiftIP
   link: /projects/swiftip.html
   description: IP addresses in Swift — public or local, IPv4 or IPv6.
   languages: Swift
@@ -36,19 +36,19 @@
   languages: Swift
   type: app
 - name: REPL
-  repo_url: https://github.com/Samasaur1/REPL
+  repo_url: https://github.com/Hernies/REPL
   link: /projects/repl.html
   description: Prefix any command with a given string, or run a series of subcommands.
   languages: Swift
   type: executable
 - name: Typer
-  repo_url: https://github.com/Samasaur1/Typer
+  repo_url: https://github.com/Hernies/Typer
   link: /projects/typer.html
   description: Type any text, indistinguishably from user input. Not detectable as automated.
   languages: Swift
   type: library
 - name: RPG-card-generator
-  repo_url: https://github.com/Samasaur1/RPG-card-generator
+  repo_url: https://github.com/Hernies/RPG-card-generator
   link: /projects/rpg-card-generator.html
   description: Generate JSON for use with <strong>@crobi</strong>'s rpg-cards. Pick from a library, or create your own.
   languages: Swift
@@ -60,39 +60,39 @@
   languages: Java
   type: library
 - name: TyperTool
-  repo_url: https://github.com/Samasaur1/TyperTool
+  repo_url: https://github.com/Hernies/TyperTool
   link: /projects/typertool.html
   description: A basic implementation using Typer — give it text and a delay, then lean back and watch.
   languages: Swift
   type: executable
 - name: SwiftySCADKit
-  repo_url: https://github.com/Samasaur1/SwiftySCADKit
+  repo_url: https://github.com/Hernies/SwiftySCADKit
   link: /projects/swiftyscadkit.html
   description: Generate OpenSCAD from swift, allowing interactive configuration, code reuse, and more.
   languages: Swift
   type: library
 - name: RssBot
-  repo_url: https://github.com/Samasaur1/rssbot
+  repo_url: https://github.com/Hernies/rssbot
   link: /projects/rssbot.html
   description: A Discord bot that watches RSS/Atom feeds, and posts them to user-configurable channels.
   languages: Python
   type: executable
-- name: samasaur1.github.io
-  repo_url: https://github.com/Samasaur1/samasaur1.github.io
-  link: /projects/samasaur1.github.io.html
+- name: Hernies.github.io
+  repo_url: https://github.com/Hernies/Hernies.github.io
+  link: /projects/Hernies.github.io.html
   description: This website, which contains my blog and pages for my projects.
   languages:
     - Jekyll
   type: website
-  live_url: https://samasaur1.github.io
+  live_url: https://Hernies.github.io
 - name: dmn
-  repo_url: https://github.com/Samasaur1/dmn
+  repo_url: https://github.com/Hernies/dmn
   link: /projects/dmn.html
   description: dark-mode-notifier. Run arbitrary scripts upon switching modes to shift incompatible apps' color schemes.
   languages: Swift
   type: executable
 - name: jekyll-comments
-  repo_url: https://github.com/Samasaur1/jekyll-comments
+  repo_url: https://github.com/Hernies/jekyll-comments
   link: /projects/jekyll-comments.html
   description: Add comments to a static Jekyll site. Powers comments on my blog.
   languages: Rust

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Samasaur1 | Projects | RemoteText iOS App
+title: Hernies | Projects | RemoteText iOS App
 # sidebar:
 #   - title: Install
 #     children:

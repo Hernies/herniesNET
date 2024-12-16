@@ -5,15 +5,7 @@
 - name: Projects
   link: /projects
   dropdownitems:
-    - name: Custom Die Roller
+    - name: Dream keyboard setup
       link: /customdieroller.html
-    - name: RooScout
-      link: /rooscout.html
-    - name: DiceKit
-      link: /dicekit.html
-    - name: SimpleSwiftServer
-      link: /simpleswiftserver.html
-    - name: helpme
-      link: /helpme.html
 - name: Blog
   link: /blog

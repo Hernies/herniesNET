@@ -1,4 +1,4 @@
-This is the source for [my site](https://samasaur1.github.io).
+This is the source for [my site](https://Hernies.github.io).
 
 It's a Jekyll site, and the site is packaged with [Nix](https://nixos.org/). This means that you can enter a dev shell by running `nix develop` in this directory, and then you can run `jekyll build` or `jekyll serve -DH0.0.0.0` as normal.
 
