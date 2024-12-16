@@ -12,3 +12,6 @@ I like to read and figure out how things work. I also like games — both TTRPG 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernies&langs_count=6&layout=compact"/>
 
 </div>
+
+this is a cool lil badge that shows the last deploy status:
+[![Deploy Jekyll site to Pages](https://github.com/Hernies/herniesNET/actions/workflows/jekyll.yml/badge.svg)](https://github.com/Hernies/herniesNET/actions/workflows/jekyll.yml)
