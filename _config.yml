@@ -21,7 +21,7 @@ defaults:
 
 #excerpt_separator: <!--more-->
 
-page_gen_dirs: false
+page_gen_dirs: true
 page_gen:
   - data: tags
     template: tag

@@ -1,0 +1,606 @@
+  Logging at level: debug
+    Jekyll Version: 4.3.4
+Configuration file: /home/hernies/Documents/herniesNET/samasaur1.github.io/_config.yml
+  Logging at level: debug
+    Jekyll Version: 4.3.4
+         Requiring: jekyll-feed
+         Requiring: jekyll-seo-tag
+         Requiring: jekyll-datapage-generator
+         Requiring: jekyll-github-metadata
+Dotenv not found. Skipping 
+         Requiring: jekyll-git-hash
+   GitHub Metadata: Initializing...
+            Source: /home/hernies/Documents/herniesNET/samasaur1.github.io
+       Destination: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+           Reading: /_layouts/default.html
+           Reading: /_layouts/post.html
+           Reading: /_layouts/project.html
+           Reading: /_layouts/tag.html
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /.jekyll-cache
+           Reading: assets/css/styles.scss
+           Reading: blog.html
+           Reading: index.md
+           Reading: search.html
+           Reading: about.md
+           Reading: _data/authors.yml
+           Reading: _data/navigation.yml
+           Reading: _data/projects.yml
+           Reading: _data/tags.yml
+        Generating: Jekyll::GitHashGenerator finished in 0.002296558 seconds.
+           Reading: tags/swift.html
+           Reading: tags/jekyll.html
+           Reading: tags/java.html
+           Reading: tags/rust.html
+           Reading: tags/tex.html
+           Reading: tags/latex.html
+           Reading: tags/kotlin.html
+           Reading: tags/gradle.html
+           Reading: tags/python.html
+           Reading: tags/nixos.html
+           Reading: tags/frc.html
+           Reading: tags/the-blog.html
+           Reading: tags/swift-package-manager.html
+           Reading: tags/macos.html
+           Reading: tags/neovim.html
+           Reading: tags/sudo.html
+           Reading: tags/shell.html
+           Reading: tags/discord.html
+           Reading: tags/rss.html
+           Reading: tags/rssbot.html
+           Reading: tags/refind.html
+           Reading: tags/catppuccin.html
+           Reading: tags/svg.html
+           Reading: tags/imagemagick.html
+           Reading: tags/ssh.html
+           Reading: tags/gnupg.html
+           Reading: tags/tailscale.html
+           Reading: tags/wireguard.html
+           Reading: tags/vpn.html
+           Reading: tags/homebrew.html
+           Reading: tags/macports.html
+           Reading: tags/alacritty.html
+           Reading: tags/css.html
+           Reading: tags/scss.html
+           Reading: tags/nix.html
+           Reading: tags/nix-darwin.html
+        Generating: Jekyll::JekyllDatapageGenerator finished in 0.005970947 seconds.
+       Jekyll Feed: Generating feed for posts
+        Generating: JekyllFeed::Generator finished in 0.000663651 seconds.
+         Rendering: about.md
+  Pre-Render Hooks: about.md
+  Rendering Markup: about.md
+Post-Convert Hooks: about.md
+  Rendering Layout: about.md
+         Rendering: blog.html
+  Pre-Render Hooks: blog.html
+  Rendering Liquid: blog.html
+  Rendering Markup: blog.html
+Post-Convert Hooks: blog.html
+  Rendering Layout: blog.html
+         Rendering: index.md
+  Pre-Render Hooks: index.md
+  Rendering Liquid: index.md
+  Rendering Markup: index.md
+Post-Convert Hooks: index.md
+  Rendering Layout: index.md
+         Rendering: search.html
+  Pre-Render Hooks: search.html
+  Rendering Liquid: search.html
+  Rendering Markup: search.html
+Post-Convert Hooks: search.html
+  Rendering Layout: search.html
+         Rendering: assets/css/styles.scss
+  Pre-Render Hooks: assets/css/styles.scss
+  Rendering Liquid: assets/css/styles.scss
+  Rendering Markup: assets/css/styles.scss
+Post-Convert Hooks: assets/css/styles.scss
+         Rendering: tags/swift.html
+  Pre-Render Hooks: tags/swift.html
+  Rendering Liquid: tags/swift.html
+  Rendering Markup: tags/swift.html
+Post-Convert Hooks: tags/swift.html
+  Rendering Layout: tags/swift.html
+         Rendering: tags/jekyll.html
+  Pre-Render Hooks: tags/jekyll.html
+  Rendering Liquid: tags/jekyll.html
+  Rendering Markup: tags/jekyll.html
+Post-Convert Hooks: tags/jekyll.html
+  Rendering Layout: tags/jekyll.html
+         Rendering: tags/java.html
+  Pre-Render Hooks: tags/java.html
+  Rendering Liquid: tags/java.html
+  Rendering Markup: tags/java.html
+Post-Convert Hooks: tags/java.html
+  Rendering Layout: tags/java.html
+         Rendering: tags/rust.html
+  Pre-Render Hooks: tags/rust.html
+  Rendering Liquid: tags/rust.html
+  Rendering Markup: tags/rust.html
+Post-Convert Hooks: tags/rust.html
+  Rendering Layout: tags/rust.html
+         Rendering: tags/tex.html
+  Pre-Render Hooks: tags/tex.html
+  Rendering Liquid: tags/tex.html
+  Rendering Markup: tags/tex.html
+Post-Convert Hooks: tags/tex.html
+  Rendering Layout: tags/tex.html
+         Rendering: tags/latex.html
+  Pre-Render Hooks: tags/latex.html
+  Rendering Liquid: tags/latex.html
+  Rendering Markup: tags/latex.html
+Post-Convert Hooks: tags/latex.html
+  Rendering Layout: tags/latex.html
+         Rendering: tags/kotlin.html
+  Pre-Render Hooks: tags/kotlin.html
+  Rendering Liquid: tags/kotlin.html
+  Rendering Markup: tags/kotlin.html
+Post-Convert Hooks: tags/kotlin.html
+  Rendering Layout: tags/kotlin.html
+         Rendering: tags/gradle.html
+  Pre-Render Hooks: tags/gradle.html
+  Rendering Liquid: tags/gradle.html
+  Rendering Markup: tags/gradle.html
+Post-Convert Hooks: tags/gradle.html
+  Rendering Layout: tags/gradle.html
+         Rendering: tags/python.html
+  Pre-Render Hooks: tags/python.html
+  Rendering Liquid: tags/python.html
+  Rendering Markup: tags/python.html
+Post-Convert Hooks: tags/python.html
+  Rendering Layout: tags/python.html
+         Rendering: tags/nixos.html
+  Pre-Render Hooks: tags/nixos.html
+  Rendering Liquid: tags/nixos.html
+  Rendering Markup: tags/nixos.html
+Post-Convert Hooks: tags/nixos.html
+  Rendering Layout: tags/nixos.html
+         Rendering: tags/frc.html
+  Pre-Render Hooks: tags/frc.html
+  Rendering Liquid: tags/frc.html
+  Rendering Markup: tags/frc.html
+Post-Convert Hooks: tags/frc.html
+  Rendering Layout: tags/frc.html
+         Rendering: tags/the-blog.html
+  Pre-Render Hooks: tags/the-blog.html
+  Rendering Liquid: tags/the-blog.html
+  Rendering Markup: tags/the-blog.html
+Post-Convert Hooks: tags/the-blog.html
+  Rendering Layout: tags/the-blog.html
+         Rendering: tags/swift-package-manager.html
+  Pre-Render Hooks: tags/swift-package-manager.html
+  Rendering Liquid: tags/swift-package-manager.html
+  Rendering Markup: tags/swift-package-manager.html
+Post-Convert Hooks: tags/swift-package-manager.html
+  Rendering Layout: tags/swift-package-manager.html
+         Rendering: tags/macos.html
+  Pre-Render Hooks: tags/macos.html
+  Rendering Liquid: tags/macos.html
+  Rendering Markup: tags/macos.html
+Post-Convert Hooks: tags/macos.html
+  Rendering Layout: tags/macos.html
+         Rendering: tags/neovim.html
+  Pre-Render Hooks: tags/neovim.html
+  Rendering Liquid: tags/neovim.html
+  Rendering Markup: tags/neovim.html
+Post-Convert Hooks: tags/neovim.html
+  Rendering Layout: tags/neovim.html
+         Rendering: tags/sudo.html
+  Pre-Render Hooks: tags/sudo.html
+  Rendering Liquid: tags/sudo.html
+  Rendering Markup: tags/sudo.html
+Post-Convert Hooks: tags/sudo.html
+  Rendering Layout: tags/sudo.html
+         Rendering: tags/shell.html
+  Pre-Render Hooks: tags/shell.html
+  Rendering Liquid: tags/shell.html
+  Rendering Markup: tags/shell.html
+Post-Convert Hooks: tags/shell.html
+  Rendering Layout: tags/shell.html
+         Rendering: tags/discord.html
+  Pre-Render Hooks: tags/discord.html
+  Rendering Liquid: tags/discord.html
+  Rendering Markup: tags/discord.html
+Post-Convert Hooks: tags/discord.html
+  Rendering Layout: tags/discord.html
+         Rendering: tags/rss.html
+  Pre-Render Hooks: tags/rss.html
+  Rendering Liquid: tags/rss.html
+  Rendering Markup: tags/rss.html
+Post-Convert Hooks: tags/rss.html
+  Rendering Layout: tags/rss.html
+         Rendering: tags/rssbot.html
+  Pre-Render Hooks: tags/rssbot.html
+  Rendering Liquid: tags/rssbot.html
+  Rendering Markup: tags/rssbot.html
+Post-Convert Hooks: tags/rssbot.html
+  Rendering Layout: tags/rssbot.html
+         Rendering: tags/refind.html
+  Pre-Render Hooks: tags/refind.html
+  Rendering Liquid: tags/refind.html
+  Rendering Markup: tags/refind.html
+Post-Convert Hooks: tags/refind.html
+  Rendering Layout: tags/refind.html
+         Rendering: tags/catppuccin.html
+  Pre-Render Hooks: tags/catppuccin.html
+  Rendering Liquid: tags/catppuccin.html
+  Rendering Markup: tags/catppuccin.html
+Post-Convert Hooks: tags/catppuccin.html
+  Rendering Layout: tags/catppuccin.html
+         Rendering: tags/svg.html
+  Pre-Render Hooks: tags/svg.html
+  Rendering Liquid: tags/svg.html
+  Rendering Markup: tags/svg.html
+Post-Convert Hooks: tags/svg.html
+  Rendering Layout: tags/svg.html
+         Rendering: tags/imagemagick.html
+  Pre-Render Hooks: tags/imagemagick.html
+  Rendering Liquid: tags/imagemagick.html
+  Rendering Markup: tags/imagemagick.html
+Post-Convert Hooks: tags/imagemagick.html
+  Rendering Layout: tags/imagemagick.html
+         Rendering: tags/ssh.html
+  Pre-Render Hooks: tags/ssh.html
+  Rendering Liquid: tags/ssh.html
+  Rendering Markup: tags/ssh.html
+Post-Convert Hooks: tags/ssh.html
+  Rendering Layout: tags/ssh.html
+         Rendering: tags/gnupg.html
+  Pre-Render Hooks: tags/gnupg.html
+  Rendering Liquid: tags/gnupg.html
+  Rendering Markup: tags/gnupg.html
+Post-Convert Hooks: tags/gnupg.html
+  Rendering Layout: tags/gnupg.html
+         Rendering: tags/tailscale.html
+  Pre-Render Hooks: tags/tailscale.html
+  Rendering Liquid: tags/tailscale.html
+  Rendering Markup: tags/tailscale.html
+Post-Convert Hooks: tags/tailscale.html
+  Rendering Layout: tags/tailscale.html
+         Rendering: tags/wireguard.html
+  Pre-Render Hooks: tags/wireguard.html
+  Rendering Liquid: tags/wireguard.html
+  Rendering Markup: tags/wireguard.html
+Post-Convert Hooks: tags/wireguard.html
+  Rendering Layout: tags/wireguard.html
+         Rendering: tags/vpn.html
+  Pre-Render Hooks: tags/vpn.html
+  Rendering Liquid: tags/vpn.html
+  Rendering Markup: tags/vpn.html
+Post-Convert Hooks: tags/vpn.html
+  Rendering Layout: tags/vpn.html
+         Rendering: tags/homebrew.html
+  Pre-Render Hooks: tags/homebrew.html
+  Rendering Liquid: tags/homebrew.html
+  Rendering Markup: tags/homebrew.html
+Post-Convert Hooks: tags/homebrew.html
+  Rendering Layout: tags/homebrew.html
+         Rendering: tags/macports.html
+  Pre-Render Hooks: tags/macports.html
+  Rendering Liquid: tags/macports.html
+  Rendering Markup: tags/macports.html
+Post-Convert Hooks: tags/macports.html
+  Rendering Layout: tags/macports.html
+         Rendering: tags/alacritty.html
+  Pre-Render Hooks: tags/alacritty.html
+  Rendering Liquid: tags/alacritty.html
+  Rendering Markup: tags/alacritty.html
+Post-Convert Hooks: tags/alacritty.html
+  Rendering Layout: tags/alacritty.html
+         Rendering: tags/css.html
+  Pre-Render Hooks: tags/css.html
+  Rendering Liquid: tags/css.html
+  Rendering Markup: tags/css.html
+Post-Convert Hooks: tags/css.html
+  Rendering Layout: tags/css.html
+         Rendering: tags/scss.html
+  Pre-Render Hooks: tags/scss.html
+  Rendering Liquid: tags/scss.html
+  Rendering Markup: tags/scss.html
+Post-Convert Hooks: tags/scss.html
+  Rendering Layout: tags/scss.html
+         Rendering: tags/nix.html
+  Pre-Render Hooks: tags/nix.html
+  Rendering Liquid: tags/nix.html
+  Rendering Markup: tags/nix.html
+Post-Convert Hooks: tags/nix.html
+  Rendering Layout: tags/nix.html
+         Rendering: tags/nix-darwin.html
+  Pre-Render Hooks: tags/nix-darwin.html
+  Rendering Liquid: tags/nix-darwin.html
+  Rendering Markup: tags/nix-darwin.html
+Post-Convert Hooks: tags/nix-darwin.html
+  Rendering Layout: tags/nix-darwin.html
+         Rendering: feed.xml
+  Pre-Render Hooks: feed.xml
+  Rendering Liquid: feed.xml
+  Rendering Markup: feed.xml
+Post-Convert Hooks: feed.xml
+  Rendering Layout: feed.xml
+         Rendering: assets/css/styles.css.map
+  Pre-Render Hooks: assets/css/styles.css.map
+  Rendering Markup: assets/css/styles.css.map
+Post-Convert Hooks: assets/css/styles.css.map
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/about.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/blog.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/index.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/search.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/assets/css/styles.css
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/swift.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/jekyll.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/java.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/rust.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/tex.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/latex.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/kotlin.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/gradle.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/python.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/nixos.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/frc.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/the-blog.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/swift-package-manager.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/macos.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/neovim.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/sudo.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/shell.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/discord.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/rss.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/rssbot.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/refind.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/catppuccin.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/svg.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/imagemagick.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/ssh.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/gnupg.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/tailscale.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/wireguard.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/vpn.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/homebrew.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/macports.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/alacritty.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/css.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/scss.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/nix.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/tags/nix-darwin.html
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/feed.xml
+           Writing: /home/hernies/Documents/herniesNET/samasaur1.github.io/_site/assets/css/styles.css.map
+                    done in 0.468 seconds.
+         Requiring: jekyll-watch
+           Watcher: Ignoring (?-mix:^_config\.yml)
+           Watcher: Ignoring (?-mix:^_site\/)
+           Watcher: Ignoring (?-mix:^\.jekyll\-cache\/)
+           Watcher: Ignoring (?-mix:^Gemfile)
+           Watcher: Ignoring (?-mix:^Gemfile\.lock)
+ Auto-regeneration: enabled for '/home/hernies/Documents/herniesNET/samasaur1.github.io'
+[2024-12-17 01:14:08] INFO  WEBrick 1.8.2
+[2024-12-17 01:14:08] INFO  ruby 3.3.5 (2024-09-03) [x86_64-linux]
+[2024-12-17 01:14:08] DEBUG WEBrick::HTTPServlet::FileHandler is mounted on /.
+[2024-12-17 01:14:08] DEBUG unmount .
+[2024-12-17 01:14:08] DEBUG Jekyll::Commands::Serve::Servlet is mounted on .
+    Server address: http://127.0.0.1:4000
+[2024-12-17 01:14:08] INFO  WEBrick::HTTPServer#start: pid=202629 port=4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2024-12-17 01:14:08
+                    out
+           Reading: /_layouts/default.html
+           Reading: /_layouts/post.html
+           Reading: /_layouts/project.html
+           Reading: /_layouts/tag.html
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /.jekyll-cache
+           Reading: assets/css/styles.scss
+           Reading: blog.html
+           Reading: index.md
+           Reading: search.html
+           Reading: about.md
+           Reading: _data/authors.yml
+           Reading: _data/navigation.yml
+           Reading: _data/projects.yml
+           Reading: _data/tags.yml
+        Generating: Jekyll::GitHashGenerator finished in 0.003344505 seconds.
+           Reading: tags/swift.html
+           Reading: tags/jekyll.html
+           Reading: tags/java.html
+           Reading: tags/rust.html
+           Reading: tags/tex.html
+           Reading: tags/latex.html
+           Reading: tags/kotlin.html
+           Reading: tags/gradle.html
+           Reading: tags/python.html
+           Reading: tags/nixos.html
+           Reading: tags/frc.html
+           Reading: tags/the-blog.html
+           Reading: tags/swift-package-manager.html
+           Reading: tags/macos.html
+           Reading: tags/neovim.html
+           Reading: tags/sudo.html
+           Reading: tags/shell.html
+           Reading: tags/discord.html
+           Reading: tags/rss.html
+           Reading: tags/rssbot.html
+           Reading: tags/refind.html
+           Reading: tags/catppuccin.html
+           Reading: tags/svg.html
+           Reading: tags/imagemagick.html
+           Reading: tags/ssh.html
+           Reading: tags/gnupg.html
+           Reading: tags/tailscale.html
+           Reading: tags/wireguard.html
+           Reading: tags/vpn.html
+           Reading: tags/homebrew.html
+           Reading: tags/macports.html
+           Reading: tags/alacritty.html
+           Reading: tags/css.html
+           Reading: tags/scss.html
+           Reading: tags/nix.html
+           Reading: tags/nix-darwin.html
+        Generating: Jekyll::JekyllDatapageGenerator finished in 0.018506742 seconds.
+       Jekyll Feed: Generating feed for posts
+        Generating: JekyllFeed::Generator finished in 0.000346935 seconds.
+         Rendering: about.md
+  Pre-Render Hooks: about.md
+  Rendering Markup: about.md
+Post-Convert Hooks: about.md
+  Rendering Layout: about.md
+         Rendering: blog.html
+  Pre-Render Hooks: blog.html
+  Rendering Liquid: blog.html
+  Rendering Markup: blog.html
+Post-Convert Hooks: blog.html
+  Rendering Layout: blog.html
+         Rendering: index.md
+  Pre-Render Hooks: index.md
+  Rendering Liquid: index.md
+  Rendering Markup: index.md
+Post-Convert Hooks: index.md
+  Rendering Layout: index.md
+         Rendering: search.html
+  Pre-Render Hooks: search.html
+  Rendering Liquid: search.html
+  Rendering Markup: search.html
+Post-Convert Hooks: search.html
+  Rendering Layout: search.html
+         Rendering: assets/css/styles.scss
+  Pre-Render Hooks: assets/css/styles.scss
+  Rendering Liquid: assets/css/styles.scss
+  Rendering Markup: assets/css/styles.scss
+Post-Convert Hooks: assets/css/styles.scss
+         Rendering: tags/swift.html
+  Pre-Render Hooks: tags/swift.html
+  Rendering Liquid: tags/swift.html
+  Rendering Markup: tags/swift.html
+Post-Convert Hooks: tags/swift.html
+  Rendering Layout: tags/swift.html
+         Rendering: tags/jekyll.html
+  Pre-Render Hooks: tags/jekyll.html
+  Rendering Liquid: tags/jekyll.html
+  Rendering Markup: tags/jekyll.html
+Post-Convert Hooks: tags/jekyll.html
+  Rendering Layout: tags/jekyll.html
+         Rendering: tags/java.html
+  Pre-Render Hooks: tags/java.html
+  Rendering Liquid: tags/java.html
+  Rendering Markup: tags/java.html
+Post-Convert Hooks: tags/java.html
+  Rendering Layout: tags/java.html
+         Rendering: tags/rust.html
+  Pre-Render Hooks: tags/rust.html
+  Rendering Liquid: tags/rust.html
+  Rendering Markup: tags/rust.html
+Post-Convert Hooks: tags/rust.html
+  Rendering Layout: tags/rust.html
+         Rendering: tags/tex.html
+  Pre-Render Hooks: tags/tex.html
+  Rendering Liquid: tags/tex.html
+  Rendering Markup: tags/tex.html
+Post-Convert Hooks: tags/tex.html
+  Rendering Layout: tags/tex.html
+         Rendering: tags/latex.html
+  Pre-Render Hooks: tags/latex.html
+  Rendering Liquid: tags/latex.html
+  Rendering Markup: tags/latex.html
+Post-Convert Hooks: tags/latex.html
+  Rendering Layout: tags/latex.html
+         Rendering: tags/kotlin.html
+  Pre-Render Hooks: tags/kotlin.html
+  Rendering Liquid: tags/kotlin.html
+  Rendering Markup: tags/kotlin.html
+Post-Convert Hooks: tags/kotlin.html
+  Rendering Layout: tags/kotlin.html
+         Rendering: tags/gradle.html
+  Pre-Render Hooks: tags/gradle.html
+  Rendering Liquid: tags/gradle.html
+  Rendering Markup: tags/gradle.html
+Post-Convert Hooks: tags/gradle.html
+  Rendering Layout: tags/gradle.html
+         Rendering: tags/python.html
+  Pre-Render Hooks: tags/python.html
+  Rendering Liquid: tags/python.html
+  Rendering Markup: tags/python.html
+Post-Convert Hooks: tags/python.html
+  Rendering Layout: tags/python.html
+         Rendering: tags/nixos.html
+  Pre-Render Hooks: tags/nixos.html
+  Rendering Liquid: tags/nixos.html
+  Rendering Markup: tags/nixos.html
+Post-Convert Hooks: tags/nixos.html
+  Rendering Layout: tags/nixos.html
+         Rendering: tags/frc.html
+  Pre-Render Hooks: tags/frc.html
+  Rendering Liquid: tags/frc.html
+  Rendering Markup: tags/frc.html
+Post-Convert Hooks: tags/frc.html
+  Rendering Layout: tags/frc.html
+         Rendering: tags/the-blog.html
+  Pre-Render Hooks: tags/the-blog.html
+  Rendering Liquid: tags/the-blog.html
+  Rendering Markup: tags/the-blog.html
+Post-Convert Hooks: tags/the-blog.html
+  Rendering Layout: tags/the-blog.html
+         Rendering: tags/swift-package-manager.html
+  Pre-Render Hooks: tags/swift-package-manager.html
+  Rendering Liquid: tags/swift-package-manager.html
+  Rendering Markup: tags/swift-package-manager.html
+Post-Convert Hooks: tags/swift-package-manager.html
+  Rendering Layout: tags/swift-package-manager.html
+         Rendering: tags/macos.html
+  Pre-Render Hooks: tags/macos.html
+  Rendering Liquid: tags/macos.html
+  Rendering Markup: tags/macos.html
+Post-Convert Hooks: tags/macos.html
+  Rendering Layout: tags/macos.html
+         Rendering: tags/neovim.html
+  Pre-Render Hooks: tags/neovim.html
+  Rendering Liquid: tags/neovim.html
+  Rendering Markup: tags/neovim.html
+Post-Convert Hooks: tags/neovim.html
+  Rendering Layout: tags/neovim.html
+         Rendering: tags/sudo.html
+  Pre-Render Hooks: tags/sudo.html
+  Rendering Liquid: tags/sudo.html
+  Rendering Markup: tags/sudo.html
+Post-Convert Hooks: tags/sudo.html
+  Rendering Layout: tags/sudo.html
+         Rendering: tags/shell.html
+  Pre-Render Hooks: tags/shell.html
+  Rendering Liquid: tags/shell.html
+  Rendering Markup: tags/shell.html
+Post-Convert Hooks: tags/shell.html
+  Rendering Layout: tags/shell.html
+         Rendering: tags/discord.html
+  Pre-Render Hooks: tags/discord.html
+  Rendering Liquid: tags/discord.html
+  Rendering Markup: tags/discord.html
+Post-Convert Hooks: tags/discord.html
+  Rendering Layout: tags/discord.html
+         Rendering: tags/rss.html
+  Pre-Render Hooks: tags/rss.html
+  Rendering Liquid: tags/rss.html
+  Rendering Markup: tags/rss.html
+Post-Convert Hooks: tags/rss.html
+  Rendering Layout: tags/rss.html
+         Rendering: tags/rssbot.html
+  Pre-Render Hooks: tags/rssbot.html
+  Rendering Liquid: tags/rssbot.html
+  Rendering Markup: tags/rssbot.html
+Post-Convert Hooks: tags/rssbot.html
+  Rendering Layout: tags/rssbot.html
+         Rendering: tags/refind.html
+  Pre-Render Hooks: tags/refind.html
+  Rendering Liquid: tags/refind.html
+  Rendering Markup: tags/refind.html
+Post-Convert Hooks: tags/refind.html
+  Rendering Layout: tags/refind.html
+         Rendering: tags/catppuccin.html
+  Pre-Render Hooks: tags/catppuccin.html
+  Rendering Liquid: tags/catppuccin.html
+  Rendering Markup: tags/catppuccin.html
+Post-Convert Hooks: tags/catppuccin.html
+  Rendering Layout: tags/catppuccin.html
+[2024-12-17 01:14:08] DEBUG close TCPSocket(127.0.0.1, 4000)
+[2024-12-17 01:14:08] INFO  going to shutdown ...
+[2024-12-17 01:14:08] INFO  WEBrick::HTTPServer#start done.
