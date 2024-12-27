@@ -2,9 +2,9 @@
 layout: post
 date: 2024-12-17
 tags:
-  - "#obsidian"
-  - "#nixos"
-  - "#jekyll"
+  - obsidian
+  - nixos
+  - jekyll
 ---
 So, to build this website I used [samasaur's website](https://github.com/Samasaur1/samasaur1.github.io/tree/main) as a template (thank you so much!!). Let us go over the steps that led to this site existing.
 #### Before we begin
