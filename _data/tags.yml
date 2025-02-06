@@ -8,9 +8,9 @@
     the static site generator that powers this site. <a href="https://jekyllrb.com">jekyllrb.com</a>
 - name: java
   color: b07219
-- name: rust
+- name: obsidian
   color: dea584
-- name: tex
+- name: qmk
   color: 3d6117
 - name: latex
   color: 3d6117

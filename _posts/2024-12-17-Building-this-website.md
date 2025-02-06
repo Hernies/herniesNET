@@ -2,7 +2,7 @@
 layout: post
 date: 2024-12-17
 tags:
-  - "#obsidian"
+  - obsidian
   - nixos
   - jekyll
 ---
